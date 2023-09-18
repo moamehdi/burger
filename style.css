@@ -1,0 +1,41 @@
+body{
+    margin : 0;
+    padding : 0;
+}
+
+#nav-barre{
+    background-color: red;
+    height: 20px;
+    padding : 0;
+}
+
+#nav-barre a{
+ text-decoration: none;
+ color : black;
+}
+
+#nav-barrev{
+    margin : 0;
+}
+
+#ul-nav{
+    margin-top : 0;
+    list-style: none;
+}
+
+#button-burger{
+    background-color: aquamarine;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.child-div{
+    text-align: center;
+    width: 33%;
+}
+
+#flex-div{
+    display: flex;
+    flex-wrap: wrap;
+}
